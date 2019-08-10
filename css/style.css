@@ -51,8 +51,13 @@ h4 {
 
 .med {
   width: 203.5%;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  
 }
 
 .large {
   width: 303%;
+  border: 1px solid gray;
+  box-sizing: border-box;
 }
